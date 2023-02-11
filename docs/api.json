@@ -1,0 +1,32 @@
+[
+    {
+        "price":50,
+        "id":1,
+        "title":"pantalon",
+        "url":"//imagesa1.lacoste.com/dw/image/v2/BCWL_PRD/on/demandware.static/-/Sites-master/default/dw9305be9c/CH6511_001_20.jpg?imwidth=915&impolicy=product"
+    },
+    {
+        "price":60,
+        "id":2,
+        "title":"camisa",
+        "url":"//imagesa1.lacoste.com/dw/image/v2/BCWL_PRD/on/demandware.static/-/Sites-master/default/dw9305be9c/CH6511_001_20.jpg?imwidth=915&impolicy=product"
+    },
+    {
+        "price":30,
+        "id":3,
+        "title":"camisa",
+        "url":"//imagesa1.lacoste.com/dw/image/v2/BCWL_PRD/on/demandware.static/-/Sites-master/default/dw9305be9c/CH6511_001_20.jpg?imwidth=915&impolicy=product"
+    },
+    {
+        "price":50,
+        "id":4,
+        "title":"remera",
+        "url":"//imagesa1.lacoste.com/dw/image/v2/BCWL_PRD/on/demandware.static/-/Sites-master/default/dw9305be9c/CH6511_001_20.jpg?imwidth=915&impolicy=product"
+    },
+    {
+        "price":90,
+        "id":5,
+        "title":"guantes",
+        "url":"//imagesa1.lacoste.com/dw/image/v2/BCWL_PRD/on/demandware.static/-/Sites-master/default/dw9305be9c/CH6511_001_20.jpg?imwidth=915&impolicy=product"
+    }
+]
